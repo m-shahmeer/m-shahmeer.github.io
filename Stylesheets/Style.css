@@ -161,6 +161,7 @@ div.inside
     color: var(--secondandary-color);
     font-size: 22px;
     background-color:  rgba(200, 200, 200, 0.8);
+    backdrop-filter: blur(3px);
 }
 p.readmore
 {
